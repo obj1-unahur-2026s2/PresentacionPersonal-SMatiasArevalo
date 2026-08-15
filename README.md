@@ -7,7 +7,9 @@
 - Mi nombre es: Matías Arévalo
 - Vivo en Merlo, Buenos Aires
 - Tengo 21 años
-- Actualmente estudio programación en la Universidad Nacional de Hurlingham
+- Actualmente estoy cursando la carrera de Programación en la UNAHUR. Elegí la carrera porque siempre me interesó la tecnología y quería aprender más sobre cómo funciona el desarrollo de      software.
+
+- Todavía estoy dando mis primeros pasos en programación, pero mi objetivo es seguir aprendiendo y poder dedicarme profesionalmente a esto en el futuro.
 
 ### Otra Información
 - Actualmente trabajo como tornero
